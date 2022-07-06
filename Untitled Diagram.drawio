@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T06:27:06.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="0KHdDnNTHCwpgfEEKTSP" type="github"><diagram id="QWyJ8QK4zQ0Advh6B6hw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-06T07:14:22.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hgYz3WrPB9KiqIFZPW_w" version="20.0.4" type="github">
+  <diagram id="QWyJ8QK4zQ0Advh6B6hw" name="Page-1">
+    <mxGraphModel dx="1634" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DfM-w7dbxmMCC2P9iv3j-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="205" width="179" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="DfM-w7dbxmMCC2P9iv3j-3" value="base value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="255" width="179" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="DfM-w7dbxmMCC2P9iv3j-4" value="referenced name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="317" width="179" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="DfM-w7dbxmMCC2P9iv3j-7" value="strict reference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="373" width="179" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="DfM-w7dbxmMCC2P9iv3j-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;reference&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="215" width="111" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DfM-w7dbxmMCC2P9iv3j-14" value="&lt;h1&gt;什么是reference&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(14, 17, 22); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px;&quot;&gt;这里的 Reference 是一个 Specification Type，也就是 “只存在于规范里的抽象类型”。它们是为了更好地描述语言的底层行为逻辑才存在的，但并不存在于实际的 js 代码中。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="4" y="137" width="374" height="172" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
